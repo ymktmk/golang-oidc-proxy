@@ -1,6 +1,6 @@
-## golang-sso-server
+## golang-oidc-proxy
 
-The SSO server using OIDC authentication in Golang.
+Reverse proxy type of oidc authentication in Golang
 
 ### How to use
 
